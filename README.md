@@ -1,7 +1,3 @@
-Here’s a concise description with some emojis for your `README.md`:
-
----
-
 # 🔐 Password Generator
 
 Welcome to the **Password Generator**! This Python program generates secure, customizable passwords using letters, numbers, and special characters. Set your desired password length, and the generator will create a random password meeting your criteria.
